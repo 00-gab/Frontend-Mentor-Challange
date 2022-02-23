@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [Add your name here](https://github.com/00-gab)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/00-gab)
+- Github - [00-gab](https://github.com/00-gab)
+- Frontend Mentor - [@00-gab](https://www.frontendmentor.io/profile/00-gab)
